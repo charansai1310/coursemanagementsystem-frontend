@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2398519.css",
+    "main.js": "/static/js/main.29056701.js",
+    "static/js/787.ec704a7a.chunk.js": "/static/js/787.ec704a7a.chunk.js",
+    "static/media/material-symbols-rounded.woff2": "/static/media/material-symbols-rounded.5eab14d5b5c1763ff512.woff2",
+    "static/media/material-symbols-outlined.woff2": "/static/media/material-symbols-outlined.7256ec14f50a7c97e8cd.woff2",
+    "static/media/material-symbols-sharp.woff2": "/static/media/material-symbols-sharp.557c015375946975466f.woff2",
+    "index.html": "/index.html",
+    "main.d2398519.css.map": "/static/css/main.d2398519.css.map",
+    "main.29056701.js.map": "/static/js/main.29056701.js.map",
+    "787.ec704a7a.chunk.js.map": "/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2398519.css",
+    "static/js/main.29056701.js"
+  ]
+}

@@ -1,0 +1,145 @@
+/* Kondapaneni, Charan Sai - 1002065248 || 
+Ketkar, Abhishek - 1002065640 
+Kunchakuri, Harshitha - 1002111389
+Rajendran, Naveen Kumar - 1002039449
+Rachakonda, Sai Prasanna - 1002090739
+*/
+.grid-container-homepage-1 {
+    display: grid;
+    grid-template-columns: 0.5fr 0.4fr;
+    grid-gap: 50px;
+    margin-left: 5%;
+}
+.grid-container-homepage-2 {
+    display: grid;
+    grid-template-columns: 0.8fr 0.2fr;
+    grid-gap: 50px;
+    margin-left: 10%;
+}
+.grid-container-academicprogram {
+    display: grid;
+    grid-template-columns: 0.1fr 0.8fr 0.2fr;
+    grid-gap: 50px;
+    margin-left: 10%;
+}
+.grid-container-aboutus {
+    display: grid;
+    grid-template-columns: 0.1fr 0.8fr 0.2fr;
+    grid-gap: 50px;
+    margin-left: 10%;
+}
+.grid-container-contactus {
+    display: grid;
+    grid-template-columns: 0.1fr 0.8fr 0.2fr;
+    grid-gap: 50px;
+    margin-left: 10%;
+}
+.grid-container-courses {
+    display: grid;
+    grid-template-columns: 0.1fr 0.8fr 0.2fr;
+    grid-gap: 50px;
+    margin-left: 10%;
+}
+.grid-container-login {
+    display: grid;
+    margin-top: 3%;
+    grid-template-columns: 0.4fr 0.4fr;
+    grid-gap: 50px;
+    margin-left: 10%;
+}
+.grid-container-forgotpassword {
+    display: grid;
+    grid-template-columns: 0.4fr 0.4fr;
+    grid-gap: 50px;
+    margin-left: 10%;
+}
+.grid-container-profile {
+    display: grid;
+    grid-template-columns: 0.4fr 0.4fr 0.4fr;
+    grid-gap: 50px;
+    margin-left: 1%;
+    margin-top: 5%;
+}
+.container {
+    margin-left: 30%;
+    width: fit-content;
+    border-color: #000;
+    border-top: 100%;
+    border-bottom: 100%;
+    text-align: left;
+    margin-top: 10%;
+    border-color: #000;
+    border-top: 100%;
+    border-bottom: 100%;
+}
+.grid-container-studentpage {
+    display: grid;
+    grid-template-columns: 0.23fr 0.23fr 0.23fr 0.23fr;
+    grid-gap: 0px;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.page-container {
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 5rem;
+}
+
+.grid-container-managecourses {
+    display: grid;
+    grid-template-columns: 0.6fr 0.4fr;
+    grid-gap: 1px;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.grid-container-course {
+    display: grid;
+    grid-template-columns: 0.2fr 0.8fr 0.2fr;
+    grid-gap: 5%;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.grid-container-admin {
+    display: grid;
+    grid-template-columns: 0.25fr 0.25fr 0.25fr 0.25fr;
+    grid-gap: 0px;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.grid-container-student-admin {
+    display: grid;
+    grid-template-columns: 0.3fr 0.8fr 0.3fr;
+    grid-gap: 5%;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.grid-container-coordinator {
+    display: grid;
+    grid-template-columns: 0.4fr 0.4fr 0.4fr;
+    grid-gap: 50px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.grid-container-qaofficer {
+    display: grid;
+    grid-template-columns: 0.4fr 0.4fr 0.4fr;
+    grid-gap: 50px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.grid-container-availability {
+    display: grid;
+    grid-template-columns: 0.2fr 0.8fr 0.2fr;
+    grid-gap: 5%;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.grid-container-quizzes1 {
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr;
+    grid-gap: 1%;
+    margin-top: 1%;
+    margin-left: 1%;
+}

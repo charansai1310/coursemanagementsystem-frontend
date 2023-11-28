@@ -1,0 +1,1 @@
+export const APIHOST = 'https://api.axk5640.uta.cloud'

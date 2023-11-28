@@ -1,0 +1,114 @@
+/* Kondapaneni, Charan Sai - 1002065248 || 
+Ketkar, Abhishek - 1002065640 
+Kunchakuri, Harshitha - 1002111389
+Rajendran, Naveen Kumar - 1002039449
+Rachakonda, Sai Prasanna - 1002090739
+*/
+.btn-contactus {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    border-radius: 16px;
+    font-size: large;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.btn-login {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    font-size: large;
+    border-radius: 16px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.btn-signup {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    border-radius: 16px;
+    font-size: large;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.btn-profile {
+    margin-top: 30%;
+    background-color: #04AA6D;
+    color: white;
+    padding: 8px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+    border-radius: 16px;
+    font-size: larger;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.btn-admin {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 80%;
+    opacity: 0.9;
+    margin-top: 10%;
+    margin-left: 2%;
+    font-size: 100%;
+    border-radius: 12px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.btn-coordinator {
+    margin-bottom: 10%;
+    margin-left: -100px;
+    background-color: #04AA6D;
+    font-size: large;
+    height: 15%;
+    width: 80%;
+    border-radius: 10px;
+    color: white;
+    padding: 8px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.btn-qaofficer {
+    margin-bottom: 10%;
+    margin-left: -100px;
+    background-color: #04AA6D;
+    font-size: large;
+    height: 15%;
+    width: 80%;
+    border-radius: 10px;
+    color: white;
+    padding: 8px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.btn-edit {
+    background-color: #04AA6D;
+    color: white;
+    padding: 8px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+    border-radius: 16px;
+    font-size: larger;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.btn:hover {
+    opacity: 1;
+}

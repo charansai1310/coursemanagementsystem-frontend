@@ -1,0 +1,24 @@
+/* Kondapaneni, Charan Sai - 1002065248 || 
+Ketkar, Abhishek - 1002065640 
+Kunchakuri, Harshitha - 1002111389
+Rajendran, Naveen Kumar - 1002039449
+Rachakonda, Sai Prasanna - 1002090739
+*/
+input[type=text], input[type=password], input[type=number], input[type=textarea] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.info{
+    margin-top: 10%;
+    border-color: #000;
+    border-top: 100%;
+    border-bottom: 100%;
+}
+
+.form-profile{
+    font-size: x-large;
+}
